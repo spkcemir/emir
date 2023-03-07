@@ -1,0 +1,21 @@
+
+img{
+    height: 650px;
+    width: 650px;
+}
+html{
+    font-size: 21px;
+}
+article{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+h3{
+    font-weight: normal;
+    color: grey;
+}
+a{
+    color: red;
+}
