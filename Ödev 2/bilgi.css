@@ -1,0 +1,10 @@
+.img{
+    height: 40px;
+    width: 300px;
+}
+
+.iconlar{
+    font-weight: 300;
+    color: black;
+    z-index: 10;
+}
